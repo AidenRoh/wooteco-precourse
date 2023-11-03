@@ -1,11 +1,11 @@
 [submodule "week_1_baseball"]
 	path = week_1_baseball
 	url = https://github.com/AidenRoh/java-baseball-6.git
-	branch = main
+	branch = dev
 [submodule "week_2_racingca"]
 	path = week_2_racingca
 	url = https://github.com/AidenRoh/java-racingcar-6.git
-	branch = main
+	branch = aidenroh
 [submodule "week_3_lotto"]
 	path = week_3_lotto
 	url = https://github.com/AidenRoh/java-lotto-6.git
